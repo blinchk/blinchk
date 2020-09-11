@@ -10,7 +10,7 @@
 #### Social <img src="https://media.giphy.com/media/U3DIXqKQV5YcSKuzMC/giphy.gif" width="25">
 
 - 🎧 My strange musical taste on <a href="spotify.laus.codes">Spotify</a>
-- 🌐 Tweeting my unfunny jokes on <a href="twitter.laus.codes">Twitter</a>
+- 🌐 Tweeting my unfunny jokes on <a href="twitter.com/ItsCanBeBlinchk">Twitter</a>
 
 #### Languages and Tools
 

@@ -2,7 +2,7 @@
 
 ![Blinchk's github stats](https://github-readme-stats.vercel.app/api?username=blinchk&show_icons=true&theme=radical)
 
-- 🌱 Studying at <a href="https://tthk.ee>TTHK</a> for Software Development
+- 🌱 Studying at <a href="https://tthk.ee">Tallinna Tööstushariduskeskus</a> for Software Development
 - 📫 Write me there: <a href="twitter.laus.codes">Twitter</a> or nikolas.laus@protonmail.com
 - 💼 My study portfolio: <a href="laus.codes">WordPress</a>
 

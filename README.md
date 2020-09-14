@@ -14,7 +14,7 @@
 
 #### Languages and Tools
 
-* <img src="https://lh3.googleusercontent.com/proxy/_aQhG4rrbjlAG1EuAuVlWPYN01L0GUioMld6BVsQyX-DQ8Kqeinm0AfLbwfGtykpEeflKE9NEl1jPChH8TkTm3wJ-gNjXK5HAfOdW0vEeR9DzqrNAg" width=15>Python
+* Python
 * <img src="https://s1.iconbird.com/ico/2013/6/289/w512h5121371656117html5.png" width=15> HTML, <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width=15> CSS
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width=15> .NET, <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width=15> C#, <img src="https://cdn.iconscout.com/icon/free/png-512/xamarin-282427.png" width=15>Xamarin
 

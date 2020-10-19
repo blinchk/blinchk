@@ -3,6 +3,7 @@
 ![Blinchk's github stats](https://github-readme-stats.vercel.app/api?username=blinchk&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blinchk&theme=radical)
+
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=blinchk&cover_image=true)]
 
 - 🌱 Studying at <a href="https://tthk.ee">Tallinna Tööstushariduskeskus</a> for Software Development

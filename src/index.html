@@ -4,25 +4,31 @@
     <meta charset="UTF-8">
     <link rel="stylesheet" href="css/style.css">
     <link rel="import" href="component.html">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nikolas Laus</title>
 </head>
 <body>
     <nav></nav>
     <div id="container">
-        <h1>Nikolas Laus</h1>
+        <h1 class="name">Nikolas Laus</h1>
         <h2>General</h2>
         <div id="title">
+            <div class="title" id="title-citizenship">Citizenship</div>
             <div class="title" id="title-dob">Date of Birth</div>
             <div class="title" id="title-location">Location</div>
             <div class="title" id="title-mail">E-mail</div>
             <div class="title" id="title-website">Website</div>
+            <div class="title" id="title-github">GitHub</div>
+            
         </div>
         <div id="value">
+            <div class="value" id="value-citizenship"><img src="img/svg/est.svg" alt="Estonia" class="flag"> Estonia</div>
             <div class="value" id="value-dob">3rd of September 2003</div>
-            <div class="value" id="value-location">Tallinn, Estonia</div>
+            <div class="value" id="value-location">Tallinn, <img src="img/svg/est.svg" alt="Estonia" class="flag"> Estonia</div>
             <div class="value" id="value-mail"><a href="mailto:nikolas.laus@protonmail.com">nikolas.laus@protonmail.com</a></div>
             <div class="value" id="value-website"><a href="https://laus.codes">laus.codes</a></div>
+            <div class="value" id="value-github"><a href="https://github.com/blinchk"><i class="fab fa-github"></i> blinchk</a></div>
         </div>
         <h2>Education</h2>
         <div id="years">
@@ -35,6 +41,48 @@
             <div class="value" id="edu-description"><i>Basic Education</i></div>
             <div class="value" id="edu-school">Tallinna Tööstushariduskeskus</div>
             <div class="value" id="edu-description"><i>Junior Software Engineer, Vocational Education</i></div>
+        </div>
+        <h2>Technologies</h2>
+        <div id="technology">
+            <div class="title" id="tech-dotnet">
+                <img class="svg-img" src="img/svg/dotnet.svg" alt=".NET"> .NET, Xamarin
+            </div>
+            <div class="title" id="tech-web">
+                <img class="svg-img" src="img/svg/html5.svg" alt="HTML5">, 
+                <img class="svg-img" src="img/svg/css3.svg" alt="CSS3">, 
+                <img class="svg-img" src="img/svg/js.svg" alt="JavaScript">, 
+                <img class="svg-img" src="img/svg/php.svg" alt="PHP">
+            </div>
+            <div class="title" id="tech-py">
+                <img src="img/svg/python.svg" alt="Python" class="svg-img">
+            </div>
+            <div class="title" id="tech-sql">SQL</div>
+            <div class="title" id="tech-office">
+                <img src="img/svg/office365.svg" alt="Office365" class="svg-img">
+            </div>
+            <div class="title" id="tech-adobe">Adobe <span class="adobe" id="adobe-ps">Ps</span>, <span class="adobe" id="adobe-ai">Ai</span></div>
+        </div>
+        <div id="value">
+            <div class="value tech-experience">1.5 years</div>
+            <div class="value tech-experience">1 year</div>
+            <div class="value tech-experience">2 years</div>
+            <div class="value tech-experience">2 years</div>
+            <div class="value tech-experience">3 years</div>
+            <div class="value tech-experience">5 years (self) + 2 years</div>
+        </div>
+        <h2>Projects</h2>
+        <div id="project">
+            <div class="title" id="project-tthkapp">TTHK mobile application</div>
+            <div class="title" id="project-tthkbot">TTHK VK bot</div>
+        </div>
+        <div id="value">
+            <div class="value">
+                <a href="https://github.com/bredbrains/tthk-app"><i class="fab fa-github"></i> GitHub</a>, 
+                <a href="https://play.google.com/store/apps/details?id=com.bredbrains.tthk_app"><i class="fab fa-google-play"></i> Play Market</a>
+            </div>
+            <div class="value">
+                <a href="https://github.com/blinchk/tthk-replacements-bot"><i class="fab fa-github"></i> GitHub</a>
+            </div>
         </div>
     </div>
 </body>

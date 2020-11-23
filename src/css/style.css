@@ -7,25 +7,32 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: darkcyan;
+}   
+
 a {
     color: darkcyan;
     text-decoration: none;
 }
 
 #container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
     width: 700px;
     display: grid;
     grid-template-areas: "h1 h1";
     grid-template-areas: "h2 h2";
     grid-template-areas: "title value";
-    margin: 0 auto;
+    padding: 20px;
     align-items: center;
 }
 
 .flag {
     height: 0.8rem;
-    box-sizing: border-box;
-    border: 1px solid black;
     border-radius: 20%;
 }
 

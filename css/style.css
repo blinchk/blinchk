@@ -24,29 +24,12 @@ a {
     background-color: white;
     width: 700px;
     display: grid;
-    grid-template-areas: "h1 h1";
-    grid-template-areas: "h2 h2";
-    grid-template-areas: "title value";
+    grid-template-areas: "h1 h1"
+    "h2 h2"
+    "title value";
     padding: 20px;
+    border: solid 5px darkcyan;
     align-items: center;
-}
-
-
-@media only screen and (max-width: 700px) {
-    #container {
-        width: 100vmin;
-        height: 100%;
-        margin: 0 auto;
-        position: relative;
-        display: grid;
-        top: 0%;
-        left: 0%;
-        transform: translate(0, 0);
-        grid-template-areas: "h1";
-        grid-template-areas: "h2";
-        grid-template-areas: "title";
-        grid-template-areas: "value";
-    }
 }
 
 .flag {
@@ -100,4 +83,18 @@ h2 {
 
 .tech-experience {
     line-height: 1.5rem;
+}
+
+
+
+@media only screen and (max-width: 700px) {
+    #container {
+        width: 100%;
+        height: 100%;
+        margin: 0 auto;
+        position: relative;
+        top: 0%;
+        left: 0%;
+        transform: translate(0, 0);
+    }
 }

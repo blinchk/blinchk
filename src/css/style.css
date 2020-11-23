@@ -31,6 +31,24 @@ a {
     align-items: center;
 }
 
+
+@media only screen and (max-width: 600px) {
+    #container {
+        width: 100vmin;
+        height: 100%;
+        margin: 0 auto;
+        position: relative;
+        display: grid;
+        top: 0%;
+        left: 0%;
+        transform: translate(0, 0);
+        grid-template-areas: "h1";
+        grid-template-areas: "h2";
+        grid-template-areas: "title";
+        grid-template-areas: "value";
+    }
+}
+
 .flag {
     height: 0.8rem;
     border-radius: 20%;

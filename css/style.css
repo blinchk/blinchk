@@ -30,6 +30,18 @@ a {
     padding: 20px;
     border: solid 5px darkcyan;
     align-items: center;
+    animation: getFromTop;
+    animation-duration: 0.6s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes getFromTop {
+    0% {
+        top: -100%;
+    }
+    100% {
+        top: 50%;
+    }
 }
 
 .flag {

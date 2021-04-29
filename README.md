@@ -1,5 +1,1 @@
-![Blinchk's github stats](https://github-readme-stats.vercel.app/api?username=blinchk&show_icons=true&theme=radical)
-
-
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=blinchk&cover_image=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blinchk&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
